@@ -34,7 +34,9 @@
   <img height="40" src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge" alt="node.js logo" />
   <img height="40" src="https://img.shields.io/static/v1?message=React.js&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" alt="react.js logo" />
 </div>
-## [About Me]
+## 
+
+[About Me]
 
 -  💻 Machine Learning and Software Engineering Enthusiast.
 -  🎓 Currently pursuing a degree in Mathematics at FMIPA.
