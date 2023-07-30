@@ -22,10 +22,15 @@
 
 [Skills]
 
+[Skills]
+
 <div align="center">
   <img height="40" src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" alt="python logo" />
   <img height="40" src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" alt="javascript logo" />
   <img height="40" src="https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge" alt="tensorflow logo" />
+  <img height="40" src="https://img.shields.io/static/v1?message=Keras&logo=keras&label=&color=D00000&logoColor=white&labelColor=&style=for-the-badge" alt="keras logo" />
+  <img height="40" src="https://img.shields.io/static/v1?message=NumPy&logo=numpy&label=&color=013243&logoColor=white&labelColor=&style=for-the-badge" alt="numpy logo" />
+  <img height="40" src="https://img.shields.io/static/v1?message=OpenCV&logo=opencv&label=&color=5C3EE8&logoColor=white&labelColor=&style=for-the-badge" alt="opencv logo" />
   <img height="40" src="https://img.shields.io/static/v1?message=Express.js&logo=express&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="express.js logo" />
   <img height="40" src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge" alt="mongodb logo" />
   <img height="40" src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge" alt="node.js logo" />
