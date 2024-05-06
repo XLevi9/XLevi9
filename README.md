@@ -51,7 +51,7 @@
 
 - 💻 Polyglot Programmer proficient in Python, JavaScript, and C#.
 - 🎓 Currently pursuing a degree in Mathematics at FMIPA.
-- 🌟 Certified TensorFlow Developer | Alibaba Cloud Certified Associate CC |
+- 🌟 Certified TensorFlow Developer | Alibaba Cloud Certified Associate CC
 - 🤖 AI and Software Engineering Enthusiast.
 
 <!--
