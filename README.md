@@ -34,14 +34,19 @@
 
 ### Technologies
 <div align="center">
+  <img height="40" src="https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge" alt="tensorflow logo" />
+  <img height="40" src="https://img.shields.io/static/v1?message=Keras&logo=keras&label=&color=D00000&logoColor=white&labelColor=&style=for-the-badge" alt="keras logo" />
+  <img height="40" src="https://img.shields.io/static/v1?message=NumPy&logo=numpy&label=&color=013243&logoColor=white&labelColor=&style=for-the-badge" alt="numpy logo" />
+  <img height="40" src="https://img.shields.io/static/v1?message=SQL&logo=sql&label=&color=CC2927&logoColor=white&labelColor=&style=for-the-badge" alt="sql logo" />
+  <img height="40" src="https://img.shields.io/static/v1?message=Pandas&logo=pandas&label=&color=150458&logoColor=white&labelColor=&style=for-the-badge" alt="pandas logo" />
+  <img height="40" src="https://img.shields.io/static/v1?message=Matplotlib&logo=matplotlib&label=&color=11557C&logoColor=white&labelColor=&style=for-the-badge" alt="matplotlib logo" />
+  <img height="40" src="https://img.shields.io/static/v1?message=OpenCV&logo=opencv&label=&color=5C3EE8&logoColor=white&labelColor=&style=for-the-badge" alt="opencv logo" />
   <img height="40" src="https://img.shields.io/static/v1?message=MERN&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge" alt="mern logo" />
+  <img height="40" src="https://img.shields.io/static/v1?message=Unity&logo=unity&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="unity logo" />
 </div>
 
 ### 
 
 [About Me]
 
-- 💻 Proficient in Python, JavaScript, and C#.
 - 🎓 Currently pursuing a degree in Mathematics at FMIPA.
-- 🌟 Certified TensorFlow Developer | Alibaba Cloud Certified Associate CC
-- 🤖 AI and Software Engineering Enthusiast.
