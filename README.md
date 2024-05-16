@@ -1,26 +1,29 @@
 <div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/109959266?v=4"  />
+  <img height="200" src="https://avatars.githubusercontent.com/u/109959266?v=4" />
 </div>
 
-###
+### 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/oky-askal-7209a2253/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/okyaskal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/al3131624?hr_r=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo" />
   </a>
 </div>
 
-###
+### 
 
 <h1> Welcome <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> !</h1>
 
 [Skills]
+
+### Certifications
+<div align="center">
+  <img height="40" src="https://img.shields.io/static/v1?message=TensorFlow Developer&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge" alt="tensorflow logo" />
+  <img height="40" src="https://img.shields.io/static/v1?message=Alibaba Cloud Certified Associate&logo=alibabacloud&label=&color=FF6A00&logoColor=white&labelColor=&style=for-the-badge" alt="alibaba cloud logo" />
+</div>
 
 ### Programming Languages
 <div align="center">
@@ -45,26 +48,11 @@
   <img height="40" src="https://img.shields.io/static/v1?message=Unity&logo=unity&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="unity logo" />
 </div>
 
-###
+### 
 
 [About Me]
 
-- 💻 Polyglot Programmer proficient in Python, JavaScript, and C#.
+- 💻 Proficient in Python, JavaScript, and C#.
 - 🎓 Currently pursuing a degree in Mathematics at FMIPA.
 - 🌟 Certified TensorFlow Developer | Alibaba Cloud Certified Associate CC
 - 🤖 AI and Software Engineering Enthusiast.
-
-<!--
-**XLevi9/XLevi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
