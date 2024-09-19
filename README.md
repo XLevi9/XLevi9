@@ -15,7 +15,8 @@
 
 ## About Me
 - AI Engineer and Game Developer
-- Passionate about creating intelligent systems and immersive gaming experiences
+- Passionate about creating intelligent systems across various domains
+- Experienced in both general machine learning and game-specific AI applications
 
 ## Skills
 
@@ -44,13 +45,24 @@
 
 ## Projects and Interests
 
-- 🧠 **AI and Machine Learning**: Developing intelligent systems and exploring deep learning techniques
-- 🎮 **Game Development**: Creating immersive experiences using Unity and other game engines
+- 🧠 **AI and Machine Learning**: 
+  - Developing intelligent systems and exploring deep learning techniques
+  - Implementing various ML algorithms (e.g., K-means, Random Forest, CNN)
+  - Natural Language Processing (NLP) and Computer Vision projects
+  - Applying AI in diverse fields beyond gaming
+
+- 🎮 **Game Development**: 
+  - Creating immersive experiences using Unity and other game engines
+  - Implementing AI for game mechanics, NPCs, and procedural content generation
+
+- 🔬 **Data Science**: 
+  - Analyzing complex datasets and extracting meaningful insights
+  - Developing predictive models for various industries
 
 ## Currently Learning
 
-- 🎯 Advanced AI techniques for game development
-- 🤖 Large Language Models (LLM)
+- 🎯 Advanced AI techniques for both general applications and game development
+- 🤖 Large Language Models (LLM) and their applications
 - 🥽 Augmented Reality (AR) and Virtual Reality (VR) development
 
-Feel free to reach out if you're interested in collaborating or just want to chat about technology and development!
+Feel free to reach out if you're interested in collaborating or just want to chat about AI, machine learning, or game development!
