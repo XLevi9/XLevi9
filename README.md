@@ -42,16 +42,15 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </div>
 
-## GitHub Stats
+## Projects and Interests
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okyaskal&theme=dark" alt="GitHub Streak" />
-</div>
+- 🧠 **AI and Machine Learning**: Developing intelligent systems and exploring deep learning techniques
+- 🎮 **Game Development**: Creating immersive experiences using Unity and other game engines
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okyaskal&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
+## Currently Learning
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okyaskal&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+- 🎯 Advanced AI techniques for game development
+- 🤖 Large Language Models (LLM)
+- 🥽 Augmented Reality (AR) and Virtual Reality (VR) development
+
+Feel free to reach out if you're interested in collaborating or just want to chat about technology and development!
