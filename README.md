@@ -38,7 +38,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Data%20Science%20Libraries-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Data Science Libraries" />
+  <img src="https://img.shields.io/badge/Data%20Science%20Libraries-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Machine Learning Libraries" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </div>
@@ -46,7 +46,6 @@
 ## Projects and Interests
 
 - 🧠 **AI and Machine Learning**
-- 🔬 **Data Science**
 - 🎮 **Game Development**
  
 ## Currently Learning
