@@ -2,7 +2,7 @@
   <img height="200" src="https://avatars.githubusercontent.com/u/109959266?v=4" />
 </div>
 
-# Welcome <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Welcome
 
 <div align="center">
   <a href="https://www.linkedin.com/in/oky-askal-7209a2253/" target="_blank">
@@ -14,9 +14,10 @@
 </div>
 
 ## About Me
-- AI Engineer and Game Developer
-- Passionate about creating intelligent systems across various domains
-- Experienced in both general machine learning and game-specific AI applications
+I am an **AI Engineer**, **Game Developer**, and **Backend Developer**. My expertise spans:
+- Building intelligent systems with machine learning and large language models (LLMs)
+- Creating immersive gaming experiences (Unity, AR/VR integration, AI-driven game mechanics)
+- Developing robust backend services using Node.js and .NET
 
 ## Skills
 
@@ -36,22 +37,24 @@
 
 ### Technologies & Frameworks
 <div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Libraries-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Machine Learning Libraries" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </div>
 
-## Projects and Interests
+## Projects & Interests
+- **AI & Machine Learning**: End-to-end model development, including LLMs  
+- **Game Development**: Unity, AR/VR, and AI-driven mechanics  
+- **Backend Development**: Node.js, .NET, and scalable server architectures  
 
-- 🧠 **AI and Machine Learning**
-- 🎮 **Game Development**
- 
-## Currently Learning
+## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=okyaskal&show_icons=true&theme=radical" alt="Okya's GitHub Stats" />
+</div>
 
-- 🎯 Advanced AI techniques for both general applications and game development
-- 🤖 Large Language Models (LLM) and their applications
-- 🥽 Augmented Reality (AR) and Virtual Reality (VR) development
+---
 
-Feel free to reach out if you're interested in collaborating or just want to chat about AI, machine learning, or game development!
+**Feel free to get in touch for collaboration or any AI, backend, or game development ideas.**  
