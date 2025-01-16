@@ -47,8 +47,8 @@ I am an **AI Engineer**, **Game Developer**, and **Backend Developer**. My exper
 </div>
 
 ## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XLevi9&show_icons=true&theme=radical" alt="Okya's GitHub Stats" />
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=XLevi9&show_icons=true&theme=radical" alt="MyGitHub Stats" />
 </div>
 
 ---
