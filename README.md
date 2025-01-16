@@ -46,15 +46,6 @@ I am an **AI Engineer**, **Game Developer**, and **Backend Developer**. My exper
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </div>
 
-## GitHub Stats
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=XLevi9&show_icons=true&theme=radical" alt="XLevi9's GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XLevi9&layout=compact&theme=radical" alt="XLevi9's Top Languages" />
-</div>
-
 ---
 
 **Feel free to get in touch for collaboration or any AI, backend, or game development ideas.**  
