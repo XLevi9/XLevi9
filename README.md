@@ -16,7 +16,7 @@
 ## About Me
 I am an **AI Engineer**, **Game Developer**, and **Backend Developer**. My expertise spans:
 - Building intelligent systems with machine learning and large language models (LLMs)
-- Creating immersive gaming experiences (Unity, AR/VR integration, AI-driven game mechanics)
+- Creating immersive gaming experiences (Unity, AR/VR integration, AI-driven mechanics)
 - Developing robust backend services using Node.js and .NET
 
 ## Skills
@@ -47,8 +47,12 @@ I am an **AI Engineer**, **Game Developer**, and **Backend Developer**. My exper
 </div>
 
 ## GitHub Stats
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=XLevi9&show_icons=true&theme=radical" alt="MyGitHub Stats" />
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=XLevi9&show_icons=true&theme=radical" alt="XLevi9's GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XLevi9&layout=compact&theme=radical" alt="XLevi9's Top Languages" />
 </div>
 
 ---
