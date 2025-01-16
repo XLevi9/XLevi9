@@ -41,18 +41,14 @@ I am an **AI Engineer**, **Game Developer**, and **Backend Developer**. My exper
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </div>
 
-## Projects & Interests
-- **AI & Machine Learning**: End-to-end model development, including LLMs  
-- **Game Development**: Unity, AR/VR, and AI-driven mechanics  
-- **Backend Development**: Node.js, .NET, and scalable server architectures  
-
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okyaskal&show_icons=true&theme=radical" alt="Okya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XLevi9&show_icons=true&theme=radical" alt="Okya's GitHub Stats" />
 </div>
 
 ---
