@@ -45,11 +45,6 @@ I am an **AI Engineer**, **Game Developer**, and **Backend Developer**. My exper
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </div>
 
-### Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XLevi9&layout=compact&langs_count=6&theme=radical" />
-</div>
-
 ---
 
 **Feel free to get in touch for collaboration or any AI, backend, or game development ideas.**
