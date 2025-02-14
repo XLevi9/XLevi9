@@ -17,7 +17,7 @@
 I am an **AI Engineer**, **Game Developer**, and **Backend Developer**. My expertise spans:
 - Building intelligent systems with machine learning and large language models (LLMs)
 - Creating immersive gaming experiences (Unity, AR/VR integration, AI-driven mechanics)
-- Developing robust backend services using Node.js and .NET
+- Developing robust backend services using **Node.js** and **Python**
 
 ## Skills
 
@@ -38,7 +38,6 @@ I am an **AI Engineer**, **Game Developer**, and **Backend Developer**. My exper
 ### Technologies & Frameworks
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -46,6 +45,11 @@ I am an **AI Engineer**, **Game Developer**, and **Backend Developer**. My exper
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </div>
 
+### Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=6&theme=radical" />
+</div>
+
 ---
 
-**Feel free to get in touch for collaboration or any AI, backend, or game development ideas.**  
+**Feel free to get in touch for collaboration or any AI, backend, or game development ideas.**
