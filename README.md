@@ -50,4 +50,4 @@ My expertise includes:
 
 ---
 
-**Let's connect and collaborate on AI, ML, or game development projects!**
+**Feel free to get in touch for collaboration or any AI, ML, or game development ideas.**
