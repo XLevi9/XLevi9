@@ -10,11 +10,11 @@
 </div>
 
 ## About Me
-I am an **AI Engineer**, **Machine Learning Engineer**, and **Game Developer**.  
+I am an **AI/ML Engineer** and **Game Developer**.  
 
 My expertise includes:
 - Developing AI systems with machine learning & large language models (LLMs)
-- Building immersive games with **Unity**, including AR/VR & AI-driven mechanics
+- Building immersive games with **Unity**
 - Backend development when needed, mainly using **Node.js**, **Python**
 
 ## Skills
