@@ -57,3 +57,5 @@ Hi! I'm **Oky**, an **AI/ML Engineer** and **Game Developer** with a background 
 Feel free to reach out if you'd like to **collaborate** or just want to say hi!
 
 ---
+
+<img src="https://raw.githubusercontent.com/XLevi9/XLevi9/output/snake.svg" alt="Snake animation" />
