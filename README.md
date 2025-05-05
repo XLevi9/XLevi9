@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=17B1QNcOLh4MAU40LjsYoydzhZgG7ZqgM" alt="Banner" width="100%" />
+  <img src="img/github-header-image.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Welcome 👋</h1>
