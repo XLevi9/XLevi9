@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/github-header-image.png" alt="Banner" width="100%" />
+  <img src="img/github-header-image.png" alt="Banner" width="80%" />
 </p>
 
 <h1 align="center">Welcome 👋</h1>
