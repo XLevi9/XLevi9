@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Oky**, an aspiring **AI/ML Engineer**, **Backend Developer**, and **Game Developer**, with a background in **Mathematics**.
+Hi! I'm **Oky**, an aspiring **AI/ML Engineer**, **Backend Developer**, and **Game Programmer**, with a background in **Mathematics**.
 
 I mainly work with **Python**, **C#**, **Java**, and **Go**, while also having experience with **C++** and **JavaScript**.
 
