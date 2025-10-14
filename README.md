@@ -10,8 +10,6 @@ Hi! I'm **Oky**:).
 
 I mainly work with **C#**, **C++**, and **Python**, while also having experience with **Lua**, **Java**, and **JavaScript**.
 
-I'm drawn to these fields because I enjoy solving complex problems, building systems, and exploring tech.
-
 ---
 
 ## 🧠 Skills & Technologies
