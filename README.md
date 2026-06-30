@@ -7,9 +7,6 @@
 ## 👨‍💻 About Me
 
 Hi! I'm **Oky** :).
-
-**Developer & Engineer.**
-
 ---
 
 ## 🧠 Skills & Technologies
