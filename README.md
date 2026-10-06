@@ -68,7 +68,6 @@ I'm a software engineer with professional experience in game development, curren
   <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Phaser-1F2937?style=for-the-badge&logo=phaser&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </div>
 
 ---
