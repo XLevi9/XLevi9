@@ -14,7 +14,7 @@ I'm a software engineer with professional experience in game development, curren
 
 ---
 
-**Frequently used:** Python · TypeScript · C# · TensorFlow · NodeJS · SQL · Docker
+**Frequently used:** Python · TypeScript · C# · Luau · TensorFlow · NodeJS · SQL · Docker
 
 ---
 
